@@ -1,0 +1,1 @@
+node "c:\<your path>\index.js"
